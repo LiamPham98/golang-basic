@@ -118,7 +118,7 @@ ex: func swap(x, y string) (string, string) {
 
 ```go
 for <condition expression> {
-    // implement code
+// implement code
 }
 
 sum := 0
